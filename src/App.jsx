@@ -38,8 +38,8 @@ function App() {
       </div>
     </>
   ) : (
-    <div className="bg-gray-400 min-h-screen">
-      <div className="text-white text-4xl flex justify-center items-center">
+    <div className="bg-[#121212] min-h-screen">
+      <div className="text-gray-200 text-4xl flex justify-center items-center font-sans italic">
         <span className="mt-64">Loading.....</span>
       </div>
     </div>
